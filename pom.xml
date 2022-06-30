@@ -42,6 +42,7 @@
             <groupId>com.openpojo</groupId>
             <artifactId>openpojo</artifactId>
             <version>0.9.1</version>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 
